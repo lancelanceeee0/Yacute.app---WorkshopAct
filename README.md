@@ -44,7 +44,7 @@ admin
 Password:
 
 ```txt
-password
+admin123
 ```
 
 ---
